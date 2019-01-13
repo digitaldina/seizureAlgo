@@ -1,0 +1,46 @@
+TRAIN,gs://starterhacks-228422-vcm/seizureAlgo/uploads/unzip/gvision/flashy/speed_fast.png,flashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112215243122/Germany.jpg,notflashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112221543134/videoblocks-light-transitions-glare-in-the-lens_bxfunet2pg_thumbnail-small01.jpg,flashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112215243122/SeizureSoftwareDemo.png,notflashy
+TEST,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112215243122/5_heic1808a_crop.jpg,notflashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112215243122/day_in_pictures_010818_001.jpg,notflashy
+VALIDATION,gs://starterhacks-228422-vcm/seizureAlgo/uploads/unzip/gvision/flashy/bright.jpg,flashy
+TRAIN,gs://starterhacks-228422-vcm/seizureAlgo/uploads/unzip/gvision/flashy/PA_SEO_056_Flashes_Spiritual_Light-624x245.jpg,flashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112221543134/shutterstock_94020127.jpg,flashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112213024767/sun3.jpg,notflashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112215243122/download.jpg,notflashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112221543134/download.jpg,flashy
+VALIDATION,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112221543134/2.jpg,flashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112221543134/images (1).jpg,flashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112213024767/sun5.jpg,notflashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112221543134/images.jpg,flashy
+TEST,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112215243122/pexels-photo-355508.jpeg,notflashy
+VALIDATION,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112215243122/download (1).jpg,notflashy
+TEST,gs://starterhacks-228422-vcm/seizureAlgo/uploads/unzip/gvision/flashy/flash.jpeg,flashy
+TRAIN,gs://starterhacks-228422-vcm/seizureAlgo/uploads/unzip/gvision/flashy/abstract-motion-background-blue-light-streaks-moving-fast_4kxj6vn-g__F0000.png,flashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112221543134/videoblocks-light-transitions-glare-in-the-lens_hx9fro3pm_thumbnail-small01.jpg,flashy
+TRAIN,gs://starterhacks-228422-vcm/seizureAlgo/uploads/unzip/gvision/flashy/images.jpeg,flashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112215243122/pexels-photo-46710.jpeg,notflashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112221543134/1502352901462475.jpg,flashy
+VALIDATION,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112215243122/SeizureSoftwareDemo2.png,notflashy
+TRAIN,gs://starterhacks-228422-vcm/seizureAlgo/uploads/unzip/gvision/flashy/paparazzi.jpg,flashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112221543134/Negative-effects-of-glare.jpg,flashy
+TRAIN,gs://starterhacks-228422-vcm/seizureAlgo/uploads/unzip/gvision/flashy/index.jpeg,flashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112221543134/rcp4d2F.png,flashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112213024767/sun4.jpeg,flashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112215243122/20180729-redding11-master.jpg,notflashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112221543134/download (1).jpg,flashy
+TEST,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112221543134/bigstock--140009885_x1ilxj.jpg,flashy
+TEST,gs://starterhacks-228422-vcm/seizureAlgo/uploads/unzip/gvision/notFlashy/glare.jpeg,notflashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112215243122/451985-bigthumbnail.jpg,notflashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112215243122/urban-france-eiffel-tower-paris-city-landmark-1789706.jpg,notflashy
+TRAIN,gs://starterhacks-228422-vcm/seizureAlgo/uploads/unzip/gvision/notFlashy/snow.jpeg,notflashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112213024767/sun6.jpg,notflashy
+TRAIN,gs://starterhacks-228422-vcm/seizureAlgo/uploads/unzip/gvision/flashy/1*cZvS4iCNw2mZHoNfsmnhLw.jpeg,flashy
+VALIDATION,gs://starterhacks-228422-vcm/seizureAlgo/uploads/unzip/gvision/notFlashy/burberry1.jpg,notflashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112213024767/sun2.jpg,notflashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112213024767/sun.jpg,flashy
+TEST,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112221543134/download (2).jpg,flashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112212211719/4008466750_8fbd5f580d.jpg,flashy
+TRAIN,gs://starterhacks-228422-vcm/uploads/new-dataset/20190112221543134/SeizureSoftwareDemo2.png,flashy
+TRAIN,gs://starterhacks-228422-vcm/seizureAlgo/uploads/unzip/gvision/notFlashy/index.jpeg,flashy
